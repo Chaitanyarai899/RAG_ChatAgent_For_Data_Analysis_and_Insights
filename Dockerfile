@@ -28,7 +28,7 @@ ENV VIRTUAL_ENV=/app/.venv \
 
 COPY --from=builder ${VIRTUAL_ENV} ${VIRTUAL_ENV}
 
-COPY ./demo_app ./demo_app
+COPY ./RAG_Logic ./RAG_Logic
 COPY ./.chainlit ./.chainlit
 COPY chainlit.md ./
 
