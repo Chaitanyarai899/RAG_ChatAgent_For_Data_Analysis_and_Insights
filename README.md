@@ -152,5 +152,5 @@ gcloud run deploy langchain-cl-chat-with-csv-app --image=europe-west6-docker.pkg
 3. **Access the App** 
 Once deployed, you can try the app similar to follwing link. I have deleted the app for cost saving as I genrally use it locally.
 
-https://langchain-cl-chat-with-csv-app-iu7ux3rrza-ez.a.run.app/
+https://ragchatagent-app-iu7897rza-ez.a.run.app/
 
