@@ -32,4 +32,4 @@ COPY ./RAG_Logic ./RAG_Logic
 COPY ./.chainlit ./.chainlit
 COPY chainlit.md ./
 
-CMD ["chainlit", "run", "demo_app/main.py"]
+CMD ["chainlit", "run", "main.py"]
