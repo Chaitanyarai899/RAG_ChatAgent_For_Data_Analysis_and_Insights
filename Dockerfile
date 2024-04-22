@@ -32,4 +32,6 @@ COPY ./RAG_Logic ./RAG_Logic
 COPY ./.chainlit ./.chainlit
 COPY chainlit.md ./
 
+WORKDIR ./RAG_Logic
+
 CMD ["chainlit", "run", "main.py"]
