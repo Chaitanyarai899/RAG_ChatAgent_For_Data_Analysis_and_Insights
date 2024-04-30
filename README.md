@@ -15,7 +15,7 @@ Retrival Augmented Generation(RAG) based Chat Agent for Data Analysis and Insigh
 1. Clone the repository📂
 
 ```bash
-git clone https://github.com/sudarshan-koirala/langchain-chainlit-docker-deployment
+git clone https://github.com/Chaitanyarai899/RAG_ChatAgent_For_Data_Analysis_and_Insights
 cd RAG_Data_Analysis_Chatbot
 ```
 
